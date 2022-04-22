@@ -1,0 +1,6 @@
+*.vcxproj* 
+*.sln* 
+**/Debug* 
+**/.vs* 
+*.docx* 
+*.zip* 
